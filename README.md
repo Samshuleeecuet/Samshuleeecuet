@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SAMSHUL ISLAM(SHAKIL)</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Frontend and Backend Web Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/Samshuleeecuet) 
 
