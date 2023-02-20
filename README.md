@@ -52,6 +52,6 @@ Skills: MySQL / PHP / BOOTSTRAP / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samshuleeecuet)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samshuleeecuet1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samshuleeecuet&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samshuleeecuet)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samshuleeecuet)  
