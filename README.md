@@ -9,17 +9,17 @@
 Welcome to my GitHub profile. I am a Frontend Web Developer. 
 Knock me: https://www.facebook.com/Shakil.EEE.CUET/
 
-Skills: MySQL / PHP / BOOTSTRAP / JS / HTML / CSS
+Skills: **Mango DB/ Node js/ React js/ MySQL / PHP / Tailwind / BOOTSTRAP / JS / HTML / CSS**
  
 
 - 🔭 I’m currently working on SAE Developer Company
 
-- 🌱 I’m currently learning **Mango DB, Node js, React js/**
+- 🌱 I’m currently learning **Next js, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samshuleeecuet](https://github.com/Samshuleeecuet)
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **Mango DB, Node js, React js, MySQL, PHP, Tailwind, BOOTSTRAP, JS, HTML, CSS**
 
 - 📫 How to reach me **samshul2001@gmail.com**
 
